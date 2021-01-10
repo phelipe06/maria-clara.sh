@@ -1,0 +1,15 @@
+
+maria-clara
+maria-clara
+   -----
+
+ cd clara
+
+   bash ou ./ pjtmc.sh
+
+" '>pjtmc.sh' php conect.php == php medidor.php"
+
+maria-clara
+maria-clara
+   ------
+
