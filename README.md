@@ -9,9 +9,12 @@
 <br/>
 <br/>
 
-# contact me
+## contact me
 
 <li><code>Felipe Sousa</code></li>
+
 Instagram: [@phellipe_0_1_1](https://instagram.com/phellipe_011)
+
 <li><code>Maria clara</code></li>
+
 Instagram: [@_clar4m_](https://instagram.com/_mari4m_)
