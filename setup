@@ -1,0 +1,38 @@
+#!/bash.bin;
+#/setup
+#/pacotes pjtmc.sh
+ clear
+
+echo
+echo
+echo
+echo
+         setterm --foreground "cyan"
+   echo "     instalando pacotes..."
+   echo
+   apt-get update > install.log
+   echo
+   pkg install php
+      echo
+         setterm --foreground "green"
+      echo " > php instalado "
+      echo
+   pkg install cowsay
+         setterm --foreground "green"
+      echo " > cowsay instalado "
+     echo
+      echo
+       echo
+        echo
+             setterm --foreground "cyan"
+   echo " Dando permissao para executar..."
+     chmod 777 pjtmc.sh
+     echo
+    echo
+   echo
+        setterm --foreground "green"
+    toilet -f slant "    PRONTO!"
+echo
+echo
+echo
+echo
