@@ -7,12 +7,14 @@
 <li><code>bash pjtmc.sh</code></li>
 </ul>
 <br/>
-<br/>
 <img src="https://github.com/phelipe06/maria-clara.sh/blob/main/IMG_20201205_154439_002.jpg" />
 
 ## contact me
 
 <li><code>Felipe Sousa</code></li>
+
 Instagram: [@phellipe_011](https://instagram.com/phellipe_011)
+
 <li><code>Maria clara</code></li>
+
 Instagram: [@_clar4m_](https://instagram.com/_clar4m_)
