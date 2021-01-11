@@ -17,4 +17,4 @@ Instagram: [@phellipe_011](https://instagram.com/phellipe_011)
 
 <li><code>Maria clara</code></li>
 
-Instagram: [@_clar4m_](https://instagram.com/_mari4m_)
+Instagram: [@_clar4m_](https://instagram.com/_clar4m_)
