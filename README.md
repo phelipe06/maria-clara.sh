@@ -13,7 +13,7 @@
 
 <li><code>Felipe Sousa</code></li>
 
-Instagram: [@phellipe_0_1_1](https://instagram.com/phellipe_011)
+Instagram: [@phellipe_011](https://instagram.com/phellipe_011)
 
 <li><code>Maria clara</code></li>
 
