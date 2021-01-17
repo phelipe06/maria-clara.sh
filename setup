@@ -27,6 +27,7 @@ echo
              setterm --foreground "cyan"
    echo " Dando permissao para executar..."
      chmod 777 pjtmc.sh
+     chmod 777 img.sh
      echo
     echo
    echo
