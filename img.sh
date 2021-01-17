@@ -27,7 +27,7 @@ echo -e " $blue                        @_clar4m_$nc❤"
   echo -e " $white ┏┓$nc$red┏┓┏━┳┳┳━┓$nc$white┏┳┳━┳┳┓$nc "
   echo -e " $white ┃┃$nc$red┃┗┫┃┃┃┃━┫$nc$white┣┓┃┃┃┃┃$nc "
   echo -e " $white ┗┛$nc$red┗━┻━┻━┻━┛$nc$white┗━┻━┻━┛$nc "
-  echo                                                                                       echo                                                                                 cp IMG_20201205_154439_002.jpg /data/data/com.termux/files/home/storage/downloads
+  echo  
          echo
        echo
       echo
