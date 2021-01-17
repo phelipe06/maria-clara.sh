@@ -34,6 +34,6 @@ echo
         setterm --foreground "green"
     toilet -f slant "    PRONTO!"
 echo
-echo
+echo "/maria-clara.sh"
 echo
 echo
