@@ -17,7 +17,8 @@ nc="\e[0m"
 echo
 echo
 echo
-
+  cp Screenshot_20200625-133339.png /data/data/com.termux/files/home/storage/downloads
+  cp IMG_20201205_154439_002.jpg /data/data/com.termux/files/home/storage/downloads
   echo -e " $green  imagem movida para a área de downloads$nc"
 echo -e " $blue                        @phelipe_011$nc❤"
 echo -e " $blue                        @_clar4m_$nc❤"
