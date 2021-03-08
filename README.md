@@ -3,7 +3,7 @@
 <ul>
 <li><code>git clone https://github.com/phelipe06/maria-clara.sh</code></li>
 <li><code>ls</code></li>
-<li><code>cd maria-clara.sh</code></li>
+<li><code>cd maria-clara</code></li>
 <li><code>ls</code></li>
 <li><code>bash setup</code></li>
 <li><code>bash img.sh</code></li>
